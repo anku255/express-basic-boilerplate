@@ -1,5 +1,5 @@
 {
-  "name": "entreview-backend",
+  "name": "express-basic-boilerplate",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anku255/EntreView-Backend.git"
+    "url": "git+https://github.com/anku255/express-basic-boilerplate.git"
   },
   "keywords": [
     "NodeJS",
@@ -19,9 +19,9 @@
   "author": "Ankit Tiwari",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/anku255/EntreView-Backend/issues"
+    "url": "https://github.com/anku255/express-basic-boilerplate/issues"
   },
-  "homepage": "https://github.com/anku255/EntreView-Backend#readme",
+  "homepage": "https://github.com/anku255/express-basic-boilerplate#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
     "dotenv": "^6.2.0",
