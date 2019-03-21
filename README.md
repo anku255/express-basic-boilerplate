@@ -1,5 +1,5 @@
 # express-basic-boilerplate
-Boilerplate for express server with eslint and nodemon.
+Boilerplate for express server with mongodb, eslint and nodemon.
 
 ## Getting Started
 
